@@ -1,4 +1,4 @@
-# badminton-shuttle-launcher
+# Badminton-Shuttle-Launcher
 Prototype of a badminton shuttle launcher
 
 Video of initial prototype testing: [https://drive.google.com/drive/search?q=2022
